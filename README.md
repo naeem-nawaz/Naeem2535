@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on pakistan property
 - 🌱 I’m currently learning php laravel,react native
-- 💬 Ask me about React js,Php laravel
+- 💬 Ask me about React js,Php laravel,Python,Machine Learning ,Deep Learning,Ai Engineering 
 - 📫 How to reach me: naeemkhanjoyia1@gmail.com
 - ⚡ All of my project:https:github.com/naeem-nawaz
 
